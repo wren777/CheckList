@@ -12,7 +12,7 @@
 <details>
 <summary>Чек-лист функциональность веб приложения Я. Самокат(Google Sheets)</summary>
   
-![Checkone](https://i.ibb.co/qFRRpYq/Google-Sheets.jpg)
+![Checkone](https://i.ibb.co/qFRRpYq/image.jpg)
 </details>
 
 <details>
