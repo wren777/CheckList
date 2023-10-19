@@ -20,10 +20,11 @@
     <img src="https://i.ibb.co/qFRRpYq/Google-Sheets.jpg" width="220" height="240" />
 </p>
 
-
+<details>
+  
 [![imageup.ru](https://imageup.ru/img279/4579629/chek-list-na-proverku-preryvanii-v-mob-prilozhnii-ia-metro.png)](https://imageup.ru/img279/4579629/chek-list-na-proverku-preryvanii-v-mob-prilozhnii-ia-metro.png.html)
 
-
+</details>
 
 
 
