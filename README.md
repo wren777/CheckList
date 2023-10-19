@@ -21,12 +21,8 @@
 
 ![imageup.ru](https://imageup.ru/img81/4579636/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0001-kopiia.jpg)
 ![imageup.ru](https://imageup.ru/img154/4579642/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0002.jpg)
-[![imageup.ru](https://imageup.ru/img261/4579644/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0003.jpg)
+![imageup.ru](https://imageup.ru/img261/4579644/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0003.jpg)
 
-
-<p>
-    <img src="https://i.ibb.co/qFRRpYq/Google-Sheets.jpg" width="220" height="240" />
-</p>
 
 <details><summary>Чек-лист на проверку прерываний в моб. приложнии Я Метро</summary>
   
@@ -36,7 +32,6 @@
 
 
 
-![image.png](https://i.postimg.cc/kXmQGpNf/image.png)(https://postimg.cc/7bKGQXW2)
 
 
 
