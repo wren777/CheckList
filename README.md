@@ -13,7 +13,7 @@
 <summary>Чек-лист верстки моб. приложение Рублёвский(Google Sheets)</summary>
 
 
-![Checkone](https://i.ibb.co/qFRRpYq/Google-Sheets.jpg)
+[![image.png](https://i.postimg.cc/kXmQGpNf/image.png)](https://postimg.cc/7bKGQXW2)
 </details>
 
 <p>
@@ -28,7 +28,7 @@
 
 
 
-
+[![image.png](https://i.postimg.cc/kXmQGpNf/image.png)](https://postimg.cc/7bKGQXW2)
 
 
 
