@@ -9,12 +9,7 @@
 ![Checkone](https://i.ibb.co/cbWwy8h/image.jpg)
 </details>
 
-<details>
-<summary>Чек-лист верстки моб. приложение Рублёвский(Google Sheets)</summary>
 
-
-![Checkone](https://i.ibb.co/qFRRpYq/Google-Sheets.jpg)
-</details>
 
 
 
