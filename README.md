@@ -3,6 +3,7 @@
   
 ![Checkone](https://i.ibb.co/FBKnPdJ/image.jpg)
 </details>
+
 <details>
 <summary>Чек-лист функциональность веб приложения Я. Самокат(Google Sheets)</summary>
   
@@ -26,11 +27,10 @@
 ![imageup.ru](https://imageup.ru/img163/4579655/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0005.jpg)
 ![imageup.ru](https://imageup.ru/img245/4579656/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0006.jpg)
 
-
-<details><summary>Чек-лист на проверку прерываний в моб. приложнии Я Метро</summary>
+<details>
+<summary>Чек-лист на проверку прерываний в моб. приложнии Я Метро</summary>
   
 ![imageup.ru](https://imageup.ru/img279/4579629/chek-list-na-proverku-preryvanii-v-mob-prilozhnii-ia-metro.png)
-
 </details>
 
 
