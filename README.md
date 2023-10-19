@@ -22,6 +22,9 @@
 ![imageup.ru](https://imageup.ru/img81/4579636/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0001-kopiia.jpg)
 ![imageup.ru](https://imageup.ru/img154/4579642/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0002.jpg)
 ![imageup.ru](https://imageup.ru/img12/4579649/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0003.jpg)
+![imageup.ru](https://imageup.ru/img195/4579652/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0004.jpg)
+![imageup.ru](https://imageup.ru/img163/4579655/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0005.jpg)
+![imageup.ru](https://imageup.ru/img245/4579656/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0006.jpg)
 
 
 <details><summary>Чек-лист на проверку прерываний в моб. приложнии Я Метро</summary>
