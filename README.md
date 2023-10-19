@@ -21,7 +21,7 @@
 
 ![imageup.ru](https://imageup.ru/img81/4579636/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0001-kopiia.jpg)
 ![imageup.ru](https://imageup.ru/img154/4579642/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0002.jpg)
-</details>
+[![imageup.ru](https://imageup.ru/img261/4579644/chek-list-testirovaniia-api-veb-prilozheniia-ia-prilavok_page-0003.jpg)
 
 
 <p>
