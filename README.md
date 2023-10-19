@@ -4,7 +4,7 @@
 ![Checkone](https://i.ibb.co/FBKnPdJ/image.jpg)
 </details>
 <details>
-<summary>Требования к сервису Яндекс.Маршруты</summary>
+<summary>Чек-лист функциональность веб приложения Я. Самокат</summary>
   
 ![Checkone](https://i.ibb.co/FBKnPdJ/image.jpg)
 </details>
