@@ -13,8 +13,7 @@
 <details>
 <summary>Чек-лист верстки моб. приложение Рублёвский(Google Sheets)</summary>
 
-
-![image.png](https://i.postimg.cc/kXmQGpNf/image.png)
+![imageup.ru](https://imageup.ru/img132/4579667/chek-list-verstki-mob-prilozhenie-rublevskii-v-google-sheets_page-0001-1.jpg)
 </details>
 
 <details>
