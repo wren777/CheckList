@@ -6,7 +6,8 @@
 <details>
 <summary>Чек-лист функциональность веб приложения Я. Самокат(Google Sheets)</summary>
   
-![Checkone](https://i.ibb.co/cbWwy8h/image.jpg)
+![imageup.ru](https://imageup.ru/img211/4579662/chek-list-funktsionalnost-veb-prilozheniia-ia-samokat_pages-to-jpg-0001.jpg)]
+![imageup.ru](https://imageup.ru/img12/4579663/chek-list-funktsionalnost-veb-prilozheniia-ia-samokat_pages-to-jpg-0002.jpg)]
 </details>
 
 <details>
