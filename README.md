@@ -28,7 +28,7 @@
 
 
 
-[![image.png](https://i.postimg.cc/kXmQGpNf/image.png)](https://postimg.cc/7bKGQXW2)
+![image.png](https://i.postimg.cc/kXmQGpNf/image.png)(https://postimg.cc/7bKGQXW2)
 
 
 
