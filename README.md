@@ -1,3 +1,4 @@
+- [Ссылка на чек-листы в Google Sheets](https://docs.google.com/spreadsheets/d/1sRYy0bgAfc_JdX4gDqsPXrcvgjfgtjaRWcSdF4P5ODE/edit?usp=sharing)
 <details>
 <summary>Чек-лист верстки веб приложения Я Самокат(Google Sheets)</summary>
   
@@ -33,7 +34,7 @@
 ![imageup.ru](https://imageup.ru/img279/4579629/chek-list-na-proverku-preryvanii-v-mob-prilozhnii-ia-metro.png)
 </details>
 
-- [Ссылка на чек-листы в Google Sheets](https://docs.google.com/spreadsheets/d/1sRYy0bgAfc_JdX4gDqsPXrcvgjfgtjaRWcSdF4P5ODE/edit?usp=sharing)
+
 
 
 
