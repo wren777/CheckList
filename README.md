@@ -14,7 +14,7 @@
 <details>
 <summary>Чек-лист функциональность веб приложения Я. Самокат</summary>
   
-![imageup.ru](https://imageup.ru/img218/4623446/vladimir-verkhoturov-8-ia-kogorta-chek-list-funktsionalnosti-i-verstki-chek-list-funktsio.jpg)
+![imageup.ru](https://imageup.ru/img174/4623453/vladimir-verkhoturov-8-ia-kogorta-chek-list-funktsionalnosti-i-verstki-chek-list-funktsio.jpg)
 ![imageup.ru](https://imageup.ru/img22/4623449/vladimir-verkhoturov-8-ia-kogorta-chek-list-funktsionalnosti-i-verstki-chek-list-funktsio.jpg)
 </details>
 
