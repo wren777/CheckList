@@ -1,9 +1,3 @@
-#### При составлении чек-листов стараюсь придерживаться следующих правил:
- - Логичность проверок
- - Последовательность и структуированость    
- - Полнота и неизбыточность
-  
-[Ссылка на просмотр чек-листов в Google Sheets](https://docs.google.com/spreadsheets/d/1sRYy0bgAfc_JdX4gDqsPXrcvgjfgtjaRWcSdF4P5ODE/edit?usp=sharing)
 
 <details>
 <summary>Чек-лист верстки моб. приложение Рублёвский</summary>
